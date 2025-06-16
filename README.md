@@ -4,6 +4,12 @@ This is a simple command-line Node.js application that interacts with a Redis da
 
 ---
 
+## Screenshot
+
+Here's a look at the main menu of the application:
+
+![Main Menu Screenshot](./ss/image-1.png "Main Menu")
+
 ## Features
 
 * **Get All Players**: Retrieve and display details for all players stored in Redis.
